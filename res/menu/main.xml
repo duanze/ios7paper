@@ -1,0 +1,36 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/guide"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_guide"/>
+    <!--
+    <item
+        android:id="@+id/update"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_update"/>
+    -->
+    <item
+        android:id="@+id/action_plus"
+        android:icon="@drawable/actionbar_add_icon"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_plus"/>
+    <item
+        android:id="@+id/feedback"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_feedback"/>
+    <item
+        android:id="@+id/evaluate"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_evaluate"/>
+    <item
+        android:id="@+id/about"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_about"/>
+
+</menu>
