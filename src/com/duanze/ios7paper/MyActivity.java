@@ -90,7 +90,7 @@ public class MyActivity extends BaseActivity {
 				editor.putString("myURI", null);
 				editor.commit();
 
-				Toast.makeText(MyActivity.this, "选定成功！", Toast.LENGTH_SHORT)
+				Toast.makeText(MyActivity.this, "Selected！", Toast.LENGTH_SHORT)
 						.show();
 			}
 		});
