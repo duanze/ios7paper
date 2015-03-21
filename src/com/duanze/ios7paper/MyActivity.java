@@ -123,7 +123,7 @@ public class MyActivity extends BaseActivity {
 	@Override
 	public boolean onOptionsItemSelected(MenuItem mi) {
 		switch (mi.getItemId()) {
-		case R.id.guide:
+		/*case R.id.guide:
 			guide();
 			break;
 		case R.id.feedback:
@@ -134,7 +134,7 @@ public class MyActivity extends BaseActivity {
 			break;
 		case R.id.about:
 			about();
-			break;
+			break;*/
 		case R.id.action_plus:
 			other();
 			break;

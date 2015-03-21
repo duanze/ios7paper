@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">重力墙纸</string>
-    <string name="otherpaper">自定义墙纸</string>
+    <string name="app_name">ZoomPaper</string>
+    <string name="otherpaper">Customize paper</string>
     <string name="action_guide">用法</string>
     <string name="action_about">关于</string>
     <string name="action_update">更新</string>
     <string name="action_feedback">反馈</string>
     <string name="action_evaluate">评分</string>
     <string name="action_plus">自定义</string>
-    <string name="next">下一张</string>
-    <string name="previous">上一张</string>
-    <string name="select">选&#160;&#160;&#160;&#160;定</string>
-    <string name="other">其&#160;&#160;&#160;&#160;他</string>
+    <string name="next">Next</string>
+    <string name="previous">Last</string>
+    <string name="select">Select</string>
+    <string name="other">Other</string>
     <string name="title_activity_my_activity2">MyActivity2</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>

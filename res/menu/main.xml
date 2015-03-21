@@ -1,10 +1,10 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android" >
 
-    <item
+<!--     <item
         android:id="@+id/guide"
         android:orderInCategory="100"
         android:showAsAction="never"
-        android:title="@string/action_guide"/>
+        android:title="@string/action_guide"/> -->
     <!--
     <item
         android:id="@+id/update"
@@ -17,7 +17,7 @@
         android:icon="@drawable/actionbar_add_icon"
         android:showAsAction="ifRoom"
         android:title="@string/action_plus"/>
-    <item
+    <!-- <item
         android:id="@+id/feedback"
         android:orderInCategory="100"
         android:showAsAction="never"
@@ -31,6 +31,6 @@
         android:id="@+id/about"
         android:orderInCategory="100"
         android:showAsAction="never"
-        android:title="@string/action_about"/>
+        android:title="@string/action_about"/> -->
 
 </menu>
